@@ -1,4 +1,5 @@
 # Site settings
+name: PeerClass
 title: PeerClass Blog
 description: "A blog about the development process of PeerClass."
 url: "http://www.github.com/alxhotel/peerclass"
