@@ -1,11 +1,10 @@
 # Site settings
 title: PeerClass Blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+description: "A blog about the development process of PeerClass."
+url: "http://www.github.com/alxhotel/peerclass"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Alex"
+  email: "alxmorais8@msn.com"
 
 # Build settings
 baseurl: /peerclass-blog/ # Change this to your relative path (ex: /blog/), or leave just a /
