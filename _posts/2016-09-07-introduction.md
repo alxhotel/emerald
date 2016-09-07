@@ -9,11 +9,11 @@ Now we can take advantage of this situation and create new tools that help peopl
 
 ### Structure
 
-For the frontend of the webapp, we are going to use [AngularJS 2](https://angular.io/) with [TypeScript](https://www.typescriptlang.org/) and [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap).
+* For the frontend of the webapp, we are going to use [AngularJS 2](https://angular.io/) with [TypeScript](https://www.typescriptlang.org/) and [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap).
 
-For the backend, we are going to use [Java](https://www.java.com/) with the [Spring framework](https://projects.spring.io/spring-framework/).
+* For the backend, we are going to use [Java](https://www.java.com/) with the [Spring framework](https://projects.spring.io/spring-framework/).
 
-For the integration of [WebRTC](https://webrtc.org/) we are going to use [Kurento](http://www.kurento.org/).
+* For the integration of [WebRTC](https://webrtc.org/) we are going to use [Kurento](http://www.kurento.org/).
 
 ### Features
 
@@ -30,8 +30,8 @@ These last weeks have been assign to decide what are the features of a fully fun
 - If the teacher needs to sent additional files, he can upload it to his "folder". This folder is unique for every room. All the files in this folder will be available after the lecture.
 
 - Anyone can send a message through the built-in "ephemeral" chat.
-  - In this chat, you can send text, images, audio and video. All of them can be view in the browser, with an option to download it to their computer. In this part we could use [Webtorrent](https://webtorrent.io) to distribute the ephemeral files.
-  - All of the shared files in the chat are ephemeral, will be stored locally and not in the server. (This could be an advantage for live users compare to users that watch the lecture afterwards).
+  - In this chat, you can send text, images, audio and video. All of them can be viewed in the browser, with an option to download it to their computer. In this part we could use [Webtorrent](https://webtorrent.io) to distribute the ephemeral files.
+  - All of the shared files in the chat, will be stored locally and not in the server. (This could be as an advantage for live users for been there).
   
 - All notifications such as a new message, a raised of a hand will be notify to all browsers, if the user accepts to receive them.
 - After ending the lecture, the teacher's webcam, slides and files will be stored, so that any user can go back to a previous lecture and replay it ([Youtube](https://youtube.com/) style). It will have a comments section (which is not the same as ephemeral chat). These comments will be saved in the server (only text).
