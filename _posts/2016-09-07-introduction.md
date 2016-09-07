@@ -9,9 +9,9 @@ Now we can take advantage of this situation and create new tools that help peopl
 
 ### Structure
 
-* For the frontend of the webapp, we are going to use [AngularJS 2](https://angular.io/) with [TypeScript](https://www.typescriptlang.org/) and [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap).
+* For the frontend, we are going to use [AngularJS 2](https://angular.io/) with [TypeScript](https://www.typescriptlang.org/) and [ng2-bootstrap](https://github.com/valor-software/ng2-bootstrap).
 
-* For the backend, we are going to use [Java](https://www.java.com/) with the [Spring framework](https://projects.spring.io/spring-framework/).
+* For the backend, we are going to use [Java](https://www.java.com/) with the [Spring framework](https://projects.spring.io/spring-framework/). And [MySQL](https://www.mysql.com/) for the database.
 
 * For the integration of [WebRTC](https://webrtc.org/) we are going to use [Kurento](http://www.kurento.org/).
 
