@@ -3,9 +3,9 @@ title: Introduction and Features
 ---
 ### Purpose
 
-Since the start of the Internet, people have had a quicker and easier way to communicate over large distances. The quality of the networks have improve so much that we can now stream video and audio nearly without any buffering or dropping packets. This has made possible to live streaming, even in mobile devices.
+Since the start of the Internet, people have had a quick and easy way to communicate over large distances. The quality of the networks have improved so much that we can now stream video and audio nearly without any buffering or dropping packets. This has made possible to live stream, even in mobile devices.
 
-Now we can take advantage of this situation and create new tools that help people's everyday lifes. We wanted to help get education everywhere, that is why we are building a virtual classroom opensource webapp based on [WebRTC](https://webrtc.org). This application will make easier than every having a live lecture and replay it afterwards.
+Now we can take advantage of this situation and create new tools that helps people's everyday lifes. We wanted to help education get everywhere, that is why we are building a virtual classroom opensource webapp based on [WebRTC](https://webrtc.org). This application will make easier than ever having a live lecture and replay it afterwards.
 
 ### Structure
 
