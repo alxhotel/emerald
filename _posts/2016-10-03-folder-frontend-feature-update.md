@@ -53,11 +53,11 @@ For the design of the app we are going to follow a "dashboard" style. The sideba
 
 The main part of the dashboard will be for the dynamic content (`<router-outlet></router-outlet>`). In there you will be able to watch the live video, chat with your peers and share files, etc.
 
-We are going to use `Angular Material` for the base app, since it has a wider range of components compared to `ng2-bootstrap`. However if there isn't a component in angular material but it's in `ng2-bootstrap`, we will use it for the development process. But since `ng2-bootstrap` doesn't have the same style as `angular material` we will rewrite that component to fit our material design. 
+We are going to use `Angular Material` for the base app, since it has a wider range of components compared to `ng2-bootstrap`. However if there isn't a component in angular material but it's in `ng2-bootstrap`, we will use it for the development process. But since `ng2-bootstrap` doesn't have the same style as `angular material` we will rewrite that component to fit our material design, for production.
 
 ### Feature update
 
-Since, for now, we can't share the screen of the user with the native browser options; we will prompt the user to install a special Chrom/Firefox extension for our site. The development of this extension will be in another repo, [here](https://github.com/alxhotel/peerclass-extension).
+Since, for now, we can't share the screen of the user with the native browser options; we will prompt the user to install a special Chrome/Firefox extension for our site. The development of this extension will be in another repo, [here](https://github.com/alxhotel/peerclass-extension).
 
 Some previous testing of `Webtorrent` has shown a reasonable increase of the CPU usage, this could be a problem when live chatting. We will test this module more when we have, at least, a working chat.
 
